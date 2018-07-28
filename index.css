@@ -1,4 +1,11 @@
 html,
+
+.flex-container {
+  display: flex;
+  width: 100vw;
+  
+  
+}
 body {
   margin: 0;
   padding: 0;
