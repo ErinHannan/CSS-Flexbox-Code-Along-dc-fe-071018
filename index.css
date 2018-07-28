@@ -3,9 +3,10 @@ html,
 .flex-container {
   display: flex;
   width: 100vw;
-  
-  
+  height: 100vh;
 }
+
+
 body {
   margin: 0;
   padding: 0;
